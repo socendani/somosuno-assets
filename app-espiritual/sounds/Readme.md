@@ -1,5 +1,6 @@
 # module-sounds
 
+ - Religiones
  - Filosofías Orientales
  - Esoterismo y Ocultismo
  - Rituales y Ceremonias
