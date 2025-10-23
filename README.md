@@ -1,5 +1,5 @@
 # somosuno-assets
-Respositori públic
+Repositori públic
 
 
 
