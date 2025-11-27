@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30">
+  <rect width="60" height="30" fill="#012169"/>
+  <g stroke="#fff">
+    <g stroke-width="6">
+      <path d="m0,0 60,30m0-30L0,30"/>
+    </g>
+    <g stroke-width="4">
+      <path d="m0,0 60,30m0-30L0,30"/>
+    </g>
+    <g stroke="#C8102E" stroke-width="2">
+      <path d="m0,0 60,30m0-30L0,30"/>
+    </g>
+  </g>
+  <g stroke="#fff" stroke-width="10">
+    <path d="M30,0v30M0,15h60"/>
+  </g>
+  <g stroke="#C8102E" stroke-width="6">
+    <path d="M30,0v30M0,15h60"/>
+  </g>
+</svg>
